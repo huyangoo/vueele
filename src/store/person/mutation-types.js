@@ -1,0 +1,3 @@
+export const GET_ALL_PERSONS = 'GET_ALL_PERSONS'
+export const GET_PERSON_BY_ID = 'GET_PERSON_BY_ID'
+export const DEL_PERSON_BY_ID = 'DEL_PERSON_BY_ID'
